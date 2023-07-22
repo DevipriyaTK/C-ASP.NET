@@ -1,0 +1,17 @@
+C:\My_Projects\Udemy Course\Counting\Counting\bin\Debug\net6.0-windows\Counting.exe
+C:\My_Projects\Udemy Course\Counting\Counting\bin\Debug\net6.0-windows\Counting.deps.json
+C:\My_Projects\Udemy Course\Counting\Counting\bin\Debug\net6.0-windows\Counting.runtimeconfig.json
+C:\My_Projects\Udemy Course\Counting\Counting\bin\Debug\net6.0-windows\Counting.dll
+C:\My_Projects\Udemy Course\Counting\Counting\bin\Debug\net6.0-windows\Counting.pdb
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.csproj.AssemblyReference.cache
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.Form1.resources
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.csproj.GenerateResource.cache
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.AssemblyInfoInputs.cache
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.AssemblyInfo.cs
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.csproj.CoreCompileInputs.cache
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.dll
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\refint\Counting.dll
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.pdb
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.genruntimeconfig.cache
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\ref\Counting.dll
