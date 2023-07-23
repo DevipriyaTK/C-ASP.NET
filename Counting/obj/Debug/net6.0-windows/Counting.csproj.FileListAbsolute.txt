@@ -15,3 +15,4 @@ C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\refint\Co
 C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.pdb
 C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.genruntimeconfig.cache
 C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\ref\Counting.dll
+C:\My_Projects\Udemy Course\Counting\Counting\obj\Debug\net6.0-windows\Counting.Form2.resources
